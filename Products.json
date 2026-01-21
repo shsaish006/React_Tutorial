@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "Electronics",
+    "title": "iPhone 14",
+    "description": "Latest iPhone model",
+    "price": "$999",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "category": "Electronics",
+    "title": "Samsung Galaxy S23",
+    "description": "Flagship Samsung phone",
+    "price": "$899",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "category": "Books",
+    "title": "React Guide",
+    "description": "Complete React book",
+    "price": "$29",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "category": "Clothing",
+    "title": "T-Shirt",
+    "description": "100% Cotton",
+    "price": "$19",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "category": "Electronics",
+    "title": "MacBook Pro",
+    "description": "Apple laptop",
+    "price": "$1999",
+    "image": "https://via.placeholder.com/150"
+  }
+]

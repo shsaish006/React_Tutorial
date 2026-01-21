@@ -1,0 +1,20 @@
+.container {
+  margin: 40px;
+  border: 5px dashed pink;
+  padding: 20px;
+  text-align: center;
+}
+
+.content {
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+  padding: 10px;
+  border: 2px solid red;
+  margin-top: 10px;
+}
